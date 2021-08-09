@@ -2,7 +2,7 @@
 
 The third assignment in OPP course
 
-Names: Saar Barel & Almog Reuveny.
+Names: Almog Reuveny & Saar Barel.
 
 In this assignment we built a directional weighted graph in Python
 
